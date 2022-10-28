@@ -15,4 +15,7 @@
   - Definir un 'static' atributo privado en la clase de "instancia unica" tambien es una funcion de acceso publico en la clase
   - La realizacion con una "inicializacion diferida"(creacion en el primer uso) en la funcion de acceso.
   - Defina todos los constructores para que sean 'protected' o 'private'.
-  - Solo los clientes pueden usar la funcion de acceso para manipular el Singleton
+  - Solo los clientes pueden usar la funcion de acceso para manipular el Singleton.
+  
+  [![image.png](https://i.postimg.cc/s2bYKK7h/image.png)](https://postimg.cc/yJX38mf1)
+  [![image.png](https://i.postimg.cc/bwJ1h4Rn/image.png)](https://postimg.cc/VdxJ9Gps)
